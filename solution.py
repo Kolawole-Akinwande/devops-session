@@ -2,6 +2,7 @@
 # print("Enter a statement: ")
 # send = input()
 
+
 # # Attempting to use dictionary mapping
 # xchange = {'a' : 'z', 'b':'y', 'c':'x', 'd':'w', 'e':'v', 'f':'u', 'g':'t', 'h':'s', 'i':'r', 'j':'q',
 #             'k':'p', 'l':'o', 'm':'n', 'n':'m', 'o':'l', 'p':'k', 'q':'j', 'r':'i', 's':'h', 't':'g',
